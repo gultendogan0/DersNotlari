@@ -1,0 +1,2 @@
+rootProject.name = "ders1"
+include ':app'
