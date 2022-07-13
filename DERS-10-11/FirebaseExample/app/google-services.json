@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915303674097",
+    "project_id": "fir-example-351c8",
+    "storage_bucket": "fir-example-351c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915303674097:android:ac7d7c023099e68e223950",
+        "android_client_info": {
+          "package_name": "com.gultendogan.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915303674097-uj7sc10ucvie6r465ge5gst2051u4796.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3RB41nb8C9BBWn2v9qqmJbjzKxk5IL2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915303674097-uj7sc10ucvie6r465ge5gst2051u4796.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
